@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I'm constantly looking for opportunities to enhance my skills and knowledge, and one effective way to do this is by working on real-world projects. For this project, I obtained a dataset from a reputable [source](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=k2pandc), which I'll use to practice my data analysis and machine learning skills.
+As a Computer Science student, I'm constantly looking for opportunities to enhance my skills and knowledge, and one effective way to do this is by working on real-world projects. For this project, I obtained a dataset from a reputable [source](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=k2pandc), which I'll use to practice my data analysis and machine learning skills.
 
 The dataset I'm analyzing contains information about exoplanets discovered by the Kepler space telescope. It includes various attributes such as planet radius, mass, equilibrium temperature, and more. I obtained the dataset from NASA's Exoplanet Archive website.
 
