@@ -6,7 +6,7 @@ The dataset I'm analyzing contains information about exoplanets discovered by th
 
 The purpose of writing this software is to perform exploratory data analysis on the exoplanet dataset and develop machine learning models to predict certain properties of exoplanets. By doing so, I aim to gain a deeper understanding of exoplanets and improve my data analysis and machine learning skills.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/lJ02qmQWE4E))
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/lJ02qmQWE4E])
 
 # Data Analysis Results
 
